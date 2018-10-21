@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetcourseDetailsRequest xmlns="http://iramwebservices.soap/course"
+ xsi:schemaLocation="http://iramwebservices.soap/course courseDetailsSchema.xsd" 
+
+
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<id>123</id>
+</GetcourseDetailsRequest>
